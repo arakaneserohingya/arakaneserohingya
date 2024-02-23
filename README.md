@@ -22,5 +22,4 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/-java-black?style=for-the-badge&logo=Java)
-// ![Laravel](https://img.shields.io/badge/-Laravel-black?style=for-the-badge&logo=Laravel)
-// ![Codeigniter](https://img.shields.io/badge/-Codeigniter-black?style=for-the-badge&logo=Codeigniter)
+
