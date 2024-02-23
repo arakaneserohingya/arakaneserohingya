@@ -1,10 +1,9 @@
 <span align="center">
  <h1>Hi there, I am Ahkter Husin 👨‍💻 </h1>
 
-[![](https://img.icons8.com/material-two-tone/32/domain--v2.png)](https://ngoding.id)
-[![](https://img.icons8.com/material-two-tone/32/000000/instagram-new.png)](https://instagram.com/akbarhmu)
-[![](https://img.icons8.com/material-two-tone/32/000000/linkedin.png)](https://linkedin.com/in/hamaminatu)
-[![](https://img.icons8.com/material-two-tone/32/000000/telegram-app.png)](https://t.me/akbarhmu)
+[![](https://img.icons8.com/material-two-tone/32/domain--v2.png)](https://ahkterhusin.blogspot.com/)
+[![](https://img.icons8.com/material-two-tone/32/000000/instagram-new.png)](https://www.instagram.com/ahkterhusin/)
+[![](https://icons8.com/icon/118468/facebook)](https://www.facebook.com/roahkterhusin/)
 
 </span>
 
