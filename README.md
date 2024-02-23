@@ -1,5 +1,5 @@
 <span align="center">
- <h1>Hi there, I am Akbar 👨‍💻 </h1>
+ <h1>Hi there, I am Ahkter Husin 👨‍💻 </h1>
 
 [![](https://img.icons8.com/material-two-tone/32/domain--v2.png)](https://ngoding.id)
 [![](https://img.icons8.com/material-two-tone/32/000000/instagram-new.png)](https://instagram.com/akbarhmu)
@@ -13,10 +13,8 @@
 <div>
 
 - 🔭 I’m *currently* **sleeping** 😴, **studying** 📚, or *working* on my **laptop** 👨‍💻
-- 🌱 I’m currently learning Android developmnent using Kotlin.
-- 💬 Ask me about anything, anytime 😄
-- 😄 Pronouns: He/Him 😌.
-- ⚡ Fun fact: I am a tea dependent life form.
+- 🌱 I’m currently learning Android developmnent using Java,Kotlin and Flutter.
+
 
 </div>
 
